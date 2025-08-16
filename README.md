@@ -43,5 +43,4 @@ Delivered a  prediction model with high accuracy and interpretability. Random Fo
 ## Contact  
 
 **Author:** Prashanth  
-📧 Email: *[your email here]*  
-🔗 LinkedIn: *[your LinkedIn link here]*  
+📧 Email: prashanthpolicepatel@gmail.com 
